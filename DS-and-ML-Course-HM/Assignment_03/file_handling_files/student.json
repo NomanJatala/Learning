@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Salman",
+        "age": 25,
+        "class_name": "ics"
+    },
+    {
+        "name": "noman",
+        "age": 20,
+        "class_name": "bsai"
+    },
+    {
+        "name": "hanza",
+        "age": 15,
+        "class_name": "bscs"
+    }
+]

@@ -1,0 +1,7 @@
+--Why Python is popular for beginners and professionals?--
+Python is popular among beginners and professionals becouse it is easy to learn. Its keywords are English like words that a human can learn easily.It focus on problem solving insted of writing complex code
+
+-- Fields where python is use : 
+    + Web Development 
+    + Data Science
+    + Cyber Security
