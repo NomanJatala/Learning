@@ -8,9 +8,3 @@ class Student:
 
     def show(noman):
         print(noman.text)
-    
-
-
-s1 = Student("This is name string")
-
-s1.show()
